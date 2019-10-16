@@ -1,7 +1,7 @@
 
-#Práctica_Modelo_Conceptual_Servicio_Deportes 
+# Práctica_Modelo_Conceptual_Servicio_Deportes 
 
-###Autores : 
+### Autores : 
 
 * Alberto Delgado Soler
 * Tomás González Martín
